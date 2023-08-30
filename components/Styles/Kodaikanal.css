@@ -1,0 +1,55 @@
+
+.row{
+    margin: 10px;
+    margin-bottom: 30px;
+    /* padding: 10px; */
+} 
+
+.row h2{
+    text-align: start;
+}
+
+.card-text{
+    align-items: start;
+}
+
+.rightside{
+    margin-top: 70px;
+}
+
+.rightside p{
+    text-align: justify;
+    padding-right: 140px;
+    font-weight:100;
+}
+
+.rightside h6{
+    font-weight: bolder;
+    display: flex;
+    float: inline-end;
+    margin-bottom: 20px;
+}
+
+.card-body{
+    text-align: justify;
+}
+.card-title{
+    font-weight: bolder;
+}
+
+.z{
+    color: white;
+}
+
+.container h3{
+    margin-bottom: 20px;
+}
+
+.img1{
+    margin-left: 100px;
+    /* margin-top: 50px; */
+}
+.container {
+    margin-bottom:80px;
+    /* margin-top: 100px; */
+}
